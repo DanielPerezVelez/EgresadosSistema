@@ -1,0 +1,51 @@
+* {
+padding: 0px;
+margin: 0px;
+font-family: Cambria, Cochin, Times,'Times New Roman';
+
+}
+
+body{
+background-color: #ededed;
+}
+form{
+width: 700px;
+margin: auto;
+background-color: #8bfe;
+margin-bottom: 30px;
+text-align: center;
+}
+
+input{
+    margin: 15px;
+    padding: 10px;
+    width: 640px;
+    font-size: 18px;
+    border: none;
+    margin-bottom: 5px;
+}
+input{
+    margin: 15px;
+    padding: 10px;
+    width: 640px;
+    font-size: 18px;
+}
+textarea{
+    font-size: 18px;
+    margin: 15px;
+    padding: 10px;
+    min-width: 640px;
+    max-width: 640px;
+    min-height: 100px;
+    max-height: 200px
+    
+}
+button[type="submit"]{
+    margin-bottom: 15px;
+    margin-top: 5px; 
+    padding: 10px;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+}
